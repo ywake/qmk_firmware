@@ -54,6 +54,7 @@
 #include "quantum.h"
 #include "usb_device_state.h"
 #include <util/atomic.h>
+#include "rn42.h"
 
 #ifdef NKRO_ENABLE
 #    include "keycode_config.h"

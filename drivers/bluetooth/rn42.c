@@ -16,6 +16,7 @@
 
 #include "report.h"
 #include "uart.h"
+#include "rn42.h"
 
 #ifndef RN42_BAUD_RATE
 #    define RN42_BAUD_RATE 115200
